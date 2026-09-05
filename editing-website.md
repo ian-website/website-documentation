@@ -63,9 +63,11 @@ Please come to my *Community Clinics* ... on the second Thursday of the each mon
 
 An advantage of having the website automatically rebuild itself after the changes made using a web-browser, is that the change can be made from anywhere in the world. i.e. You are *not* obliged to go home and use your PC at home to make the changes and then upload the changes to the web-site.
 
+## Additional Files
 
+The *conf.py* file. This is a Python programming language file that configures the web-site. For example configuration the buttons on the navigation panel is performed by editing this file. 
 
-
+The *custom.css* file. This is a Cascading Style Sheets language. It is used to add features to all the website. For example, setting the colour of the navigation buttons to be red.
 
 
 
