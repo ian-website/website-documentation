@@ -47,4 +47,4 @@ There are currently four markdown web-pages:
 * contact.md. This is the *Contact* information web-page.
 * about.md. This is the *About* information web-page.
 
-*  
+
