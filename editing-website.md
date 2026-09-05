@@ -42,9 +42,9 @@ The *pages* folder is where the text of each web-page is stored in a *.md, *mark
 
 There are currently four markdown web-pages:
 
-* index.md. This is the *home page* of the website.
-* meeting.md. This is the *Community Clinic* web-page.
-* contact.md. This is the *Contact* information web-page.
-* about.md. This is the *About* information web-page.
+* *index.md*. This is the *home page* of the website.
+* *meeting.md*. This is the *Community Clinic* web-page.
+* *contact.md*. This is the *Contact* information web-page.
+* *about.md*. This is the *About* information web-page.
 
 
