@@ -47,4 +47,29 @@ There are currently four markdown web-pages:
 * *contact.md*. This is the *Contact* information web-page.
 * *about.md*. This is the *About* information web-page.
 
+## Example of editing a change to the website.
+
+Currently the meeting.md file contains the text: 
+
+Please come to my Community Clinics ... on the first Friday of the each month.
+
+If this is to be changed to the second Thursday of each month then the meeting.md file is edited and the text becomes:
+
+Please come to my Community Clinics ... on the second Thursday of the each month.
+
+After editing the change to the text you must then click on the button *Commit changes...*. The change to the file occurs, and then the *main.yml* script in the folder .github/workflow/ starts to execute. This runs the Nikola website building program which resides in an account on Github. The Nikola program converts all the source code files in the *Src* branch to be html files in the *main* branch. This takes 3 to 5 minutes. The website has now been re-built with the changes implemented. Upon refreshing the web-browser the web-site will show the *Community Clinics* web-page has the text:  
+
+on the second Thursday of the each month.
+
+An advantage of having the website automatically rebuild itself from the changes made using a web-browser, is that the change can be made from anywhere in the world. i.e. You are *not* obliged to go home and use your PC at home to make the changes and then upload the changes to the web-site.
+
+
+
+
+
+
+
+
+
+
 
