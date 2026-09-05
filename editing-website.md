@@ -53,7 +53,7 @@ Currently the *meeting.md* file contains the text:
 
 Please come to my *Community Clinics* ... on the first Friday of the each month.
 
-If this is to be changed to the second Thursday of each month then the meeting.md file is edited and the text becomes:
+If this is to be changed to the second Thursday of each month then the *meeting.md* file is edited and the text becomes:
 
 Please come to my *Community Clinics* ... on the second Thursday of the each month.
 
