@@ -37,7 +37,7 @@ The directories and files in the *src* branch are:
             └── main.yml
 ```
 
-The *image* directory is where more photo images can be stored to be used by web-pages.
+The *image* directory is where photo images can be stored to be used by web-pages.
 
 The *pages* directory is where the text of each web-page is stored in a *.md, *markdown* file.
 
