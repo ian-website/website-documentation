@@ -2,7 +2,7 @@
 
 ## Introduction
 
-The repository in the Github account that has a name ending in *.github.io* will default to being the website. The *main* branch of this repository contains *.html* files, which are sent to any web-browser that connects to the website. The web-browser interprets an html file and displays the contents of that web page.
+The repository in the Github account that has a name ending in *.github.io* will default to being the website. The *main* branch of this repository contains *.html* files, which are sent to any web-browser that connects to the website. The web-browser interprets the html data it receives from a file and displays the contents of that web page.
 
 If it is desired to change the content of a web-page, then it could be done by editing the html file. This is a relatively difficult editing task to perform.
 
