@@ -38,7 +38,8 @@ The directories and files in the *src* branch are:
 ```
 
 The *image* directory is where more photo images can be stored to be used by web-pages.
-The *pages* director is where the text of each web-page is stored in a *.md, *markdown* file.
+
+The *pages* directory is where the text of each web-page is stored in a *.md, *markdown* file.
 
 There are currently four markdown web-pages:
 
